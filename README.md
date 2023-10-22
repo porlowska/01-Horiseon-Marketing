@@ -16,15 +16,17 @@ webiste link: https://porlowska.github.io/01-Horiseon-Marketing/
 
 THe webiter is now fully accessible and extended the number of users by those who need to use screen reading devices. 
 
-```md
-![alt text](assets/images/deployed_website.png)
-```
+ Note: The webite screenhot was created with https://www.web2pdfconvert.com/to/img/ , which changes ever so slightly the font on the website as a free converter. 
+
+![Horeseron Website](/assets/images/deployed_website.png)
+
 
 ## Credits
 
 https://www.w3.org/
 course materials Xed 
 Personal notes
+https://www.web2pdfconvert.com/to/img/
 
 ## License
 
